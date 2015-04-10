@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ChunkDetails","Struct holds pre and post encryption hashes as well as original chunk size."]],"enum":[["DataMap","Holds the information that's required to recover the content of the encrypted file.  Depending on the file size, such info can be held as a vector of ChunkDetails, or as raw data directly."]]});
